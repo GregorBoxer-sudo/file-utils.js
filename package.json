@@ -1,6 +1,6 @@
 {
     "name": "simultaneous-file-handler.js",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "file handler for simultaneous writes",
     "main": "index.js",
     "scripts": {
@@ -15,5 +15,6 @@
     "bugs": {
         "url": "https://github.com/GregorBoxer-sudo/simultaneous-file-handler.js/issues"
     },
-    "homepage": "https://github.com/GregorBoxer-sudo/simultaneous-file-handler.js#readme"
+    "homepage": "https://github.com/GregorBoxer-sudo/simultaneous-file-handler.js#readme",
+    "keywords": ["file", "handler", "simultaneous", "write", "fs", "fs-extra"]
 }

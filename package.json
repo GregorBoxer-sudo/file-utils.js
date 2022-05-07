@@ -1,6 +1,6 @@
 {
-    "name": "simultaneous-file-handler.js",
-    "version": "1.0.1",
+    "name": "file-utils.js",
+    "version": "1.0.0",
     "description": "file handler for simultaneous writes",
     "main": "index.js",
     "scripts": {
@@ -8,13 +8,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/GregorBoxer-sudo/simultaneous-file-handler.js.git"
+        "url": "git+https://github.com/GregorBoxer-sudo/file-utils.js.git"
     },
     "author": "Gregor Katzschner",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/GregorBoxer-sudo/simultaneous-file-handler.js/issues"
+        "url": "https://github.com/GregorBoxer-sudo/file-utils.js/issues"
     },
-    "homepage": "https://github.com/GregorBoxer-sudo/simultaneous-file-handler.js#readme",
+    "homepage": "https://github.com/GregorBoxer-sudo/file-utils.js#readme",
     "keywords": ["file", "handler", "simultaneous", "write", "fs", "fs-extra"]
 }

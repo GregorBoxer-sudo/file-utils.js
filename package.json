@@ -1,0 +1,19 @@
+{
+    "name": "simultaneous-file-handler.js",
+    "version": "1.0.0",
+    "description": "file handler for simultaneous writes",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test/test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GregorBoxer-sudo/simultaneous-file-handler.js.git"
+    },
+    "author": "Gregor Katzschner",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/GregorBoxer-sudo/simultaneous-file-handler.js/issues"
+    },
+    "homepage": "https://github.com/GregorBoxer-sudo/simultaneous-file-handler.js#readme"
+}

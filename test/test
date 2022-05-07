@@ -1,0 +1,14 @@
+const FileHandler = require('../index');
+
+const fileHandler = new FileHandler(10, 100);
+
+async function test() {
+    await fileHandler.write('test.txt', '');
+    for (let i = 0; i < 100; i++) {
+        await fileHandler.append('test.txt', 'test\n');
+    }
+    console.log('done');
+    console.log(await fileHandler.read('test.txt'));
+}
+
+test();
